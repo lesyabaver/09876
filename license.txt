@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mobile robot
+* source:	https://sketchfab.com/3d-models/mobile-robot-25e5b5e8003040569b5dbd527cd29234
+* author:	Tonylis (https://sketchfab.com/Tonylis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mobile robot" (https://sketchfab.com/3d-models/mobile-robot-25e5b5e8003040569b5dbd527cd29234) by Tonylis (https://sketchfab.com/Tonylis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
